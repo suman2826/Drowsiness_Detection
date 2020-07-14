@@ -4,7 +4,7 @@ body{
 
 }
 .heading{
-    margin:0px 40px;
+    margin:10px 10px;
     
 }
 .heading h1{
@@ -12,6 +12,7 @@ body{
     text-align: center;
     border-bottom: 2px solid whitesmoke;
     font-weight: 100px;
+    
     
 }
 .drowsy{

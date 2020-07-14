@@ -1,12 +1,14 @@
 body{
     background-color: black;
+    background-image: url(../back.jpg);
 
 }
 .heading{
-    margin:0px 40px;
+    margin:0px 30px;
 }
 .heading h1{
     color:white;
+    text-align: center;
     
     
 }

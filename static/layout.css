@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    background-image: url(../back.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('back.jpg');
 
 }
 .heading{
@@ -9,7 +9,7 @@ body{
 .heading h1{
     color:white;
     text-align: center;
-    
+    border-bottom: 2px solid white;
     
 }
 .drowsy{

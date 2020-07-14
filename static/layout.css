@@ -4,12 +4,14 @@ body{
 
 }
 .heading{
-    margin:0px 30px;
+    margin:0px 40px;
+    
 }
 .heading h1{
     color:white;
     text-align: center;
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid whitesmoke;
+    font-weight: 100px;
     
 }
 .drowsy{
